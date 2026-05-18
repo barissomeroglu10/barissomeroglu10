@@ -59,8 +59,8 @@
 
 * **[Brendly](https://github.com/barissomeroglu10) (Ongoing):** A startup aiming to transform customer loyalty using blockchain technology, currently in the incubation phase at Innovan.
 * **[Blokverse](https://github.com/barissomeroglu10):** A blockchain-focused community and content platform.
-* **SiberVan Academy:** An educational platform aimed at increasing cybersecurity awareness for organizations.
-* **Yanımda:** An emergency alert system based on microprocessors designed for the elderly and bedridden patients.
+* **[SiberVan Academy](https://github.com/barissomeroglu10/Yazilim-Van-Project):** An educational platform aimed at increasing cybersecurity awareness for organizations.
+* **[Yanımda](https://github.com/barissomeroglu10/Yanimda):** An emergency alert system based on microprocessors designed for the elderly and bedridden patients.
 * **[E-Commerce Site](https://github.com/barissomeroglu10/ETicaretSitesi):** A full-stack OOP project built with C#, ASP.NET MVC, Azure, and MSSQL.
 
 <br/>
